@@ -1,16 +1,17 @@
-### Hi there 👋
+# Vinícius Fernandes
 
-<!--
-**fernandes-vinicius/fernandes-vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DEV at @EVOCORP.
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-fernandes/)](https://www.linkedin.com/in/vinícius-fernandes/) 
+[![Outlook Badge](https://img.shields.io/badge/-vinicius_sfo@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius_sfo@hotmail.com)](mailto:vinicius_sfo@hotmail.com)
 
-Here are some ideas to get you started:
+Enthusiast of the best web & mobile development technologies. Obsessed with acquiring new knowledge, I glimpse a world in front of a terminal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m a systems analyst and developer graduated from IFRN (Instituto Federal do Rio Grande do Norte).
+- 🔭 I’m currently working on EVOCORP as a frontend developer.
+- 🌱 I’m currently learning NextJS, Flutter, TypeScript.
+- 💬 Ask me about JavaScript, ReactJS, React Native, NodeJS, Android, Java...
+- 📫 How to reach me: São Miguel, RN - Brasil
+- ⚡ Fun fact: Universal
+
+"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.” – Aristotle."
