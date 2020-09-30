@@ -2,8 +2,8 @@
 
 DEV at @EVOCORP.
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/vinícius-fernandes-3a6686139/)](https://www.linkedin.com/in/vinícius-fernandes-3a6686139/) 
-[![Outlook Badge](https://img.shields.io/badge/-vinicius_sfo@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius_sfo@hotmail.com)](mailto:vinicius_sfo@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-fernandes-3a6686139/)](https://www.linkedin.com/in/vinicius-fernandes-3a6686139/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 Enthusiast of the best web & mobile development technologies. Obsessed with acquiring new knowledge, I glimpse a world in front of a terminal.
 
