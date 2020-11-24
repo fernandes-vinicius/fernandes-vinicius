@@ -1,4 +1,4 @@
-# Vinícius Fernandes
+# Hey, my name is Vinícius Fernandes! 👋
 
 DEV at @EVOCORP.
  
