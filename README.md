@@ -1,15 +1,24 @@
 # Vinícius Fernandes
 
 Dev @EVOCORP.
- 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Fernandes-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-fernandes-3a6686139/)](https://www.linkedin.com/in/vin%C3%ADcius-fernandes-3a6686139/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusfernandes6991@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfernandes6991@gmail.com)](mailto:viniciusfernandes6991@gmail.com)
 
-Enthusiast of the best web & mobile development technologies. Obsessed with acquiring new knowledge, I glimpse a world in front of a terminal.
+<br />
+<br />
 
-- 📚 I’m a systems analyst and developer.
-- 🔭 I’m currently working on EVOCORP as a frontend developer.
-- 💬 Ask me about JavaScript, Typescript, ReactJS, React Native, Java...
-- 📫 How to reach me: Brazil
+Olá, sou o Vinícius Fernandes, analista e desenvolvedor de sistemas, sempre focado em qualidade, arquitetura e boas práticas. Atualmente estou como Front End Developer na [EVOCORP](https://www.evocorp.com.br).
 
-"First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.” – Aristotle."
+**Minha Stack atual:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+
+"Primeiro, tenha um ideal prático definido e claro; uma meta, um objetivo. Em segundo lugar, tenha os meios necessários para atingir seus fins; sabedoria, dinheiro, materiais e métodos. Terceiro, ajuste todos os seus meios para esse fim.” – Aristóteles."
