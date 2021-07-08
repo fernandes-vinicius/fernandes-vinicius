@@ -5,7 +5,7 @@ Dev @EVOCORP.
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Fernandes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-fernandes-3a6686139/)](https://www.linkedin.com/in/vin%C3%ADcius-fernandes-3a6686139/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusfernandes6991@gmail.com-cc1016?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfernandes6991@gmail.com)](mailto:viniciusfernandes6991@gmail.com)
 
-Olá, sou o Vinícius Fernandes, analista e desenvolvedor de sistemas, sempre focado em qualidade, arquitetura e boas práticas. Atualmente estou como Front End Developer na [EVOCORP](https://www.evocorp.com.br).
+Olá, sou o Vinícius Fernandes, analista e desenvolvedor de sistemas, sempre focado em qualidade, arquitetura e boas práticas. Atualmente estou como Front End Developer na [EVOCORP](https://www.evocorp.com.br). Sou um entusiasta das tecnologias, sempre buscando adquirir novos conhecimentos e aprimorar minhas técnicas atuais. 💪
 
 **Minha Stack atual:**
 
