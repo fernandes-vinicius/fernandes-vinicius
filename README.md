@@ -7,7 +7,7 @@ Dev @EVOCORP.
 
 Olá, sou o Vinícius Fernandes, analista e desenvolvedor de sistemas, sempre focado em qualidade, arquitetura e boas práticas. Atualmente estou como Front End Developer na [EVOCORP](https://www.evocorp.com.br). Sou um entusiasta das tecnologias, sempre buscando adquirir novos conhecimentos e aprimorar minhas técnicas atuais. 💪
 
-**Minha Stack atual:**
+**Algumas Tecnologias da Minha Stack Atual:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
