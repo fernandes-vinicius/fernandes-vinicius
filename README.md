@@ -1,6 +1,6 @@
 # Vinícius Fernandes
 
-Dev @EVOCORP.
+Frontend Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Fernandes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-fernandes-3a6686139/)](https://www.linkedin.com/in/vin%C3%ADcius-fernandes-3a6686139/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciusfernandes6991@gmail.com-cc1016?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfernandes6991@gmail.com)](mailto:viniciusfernandes6991@gmail.com)
