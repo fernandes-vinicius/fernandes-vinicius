@@ -7,7 +7,7 @@ Frontend Developer
 
 Olá, sou o Vinícius Fernandes, analista e desenvolvedor de sistemas, sempre focado em qualidade, arquitetura e boas práticas.
 
-Sou um entusiasta das tecnologias, apaixonado por pelo processo de transformar ideias em realidade usando soluções criativas. Estou sempre curioso 
+Sou um entusiasta das tecnologias, apaixonado pelo processo de transformar ideias em realidade usando soluções criativas. Estou sempre curioso 
 para aprender novas habilidades, ferramentas e conceitos.. 💪
 
 **Algumas Tecnologias da Minha Stack Atual:**
