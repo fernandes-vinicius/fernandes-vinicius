@@ -31,8 +31,6 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
         <img align="center" height="30" width="40" alt="Redux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">
 </p>
 
-<br />
-
 ### Redes Sociais
 
 <p>
