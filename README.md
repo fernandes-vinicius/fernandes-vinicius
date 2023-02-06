@@ -11,6 +11,12 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
 * 💼 &nbsp; Atuando no mercado profissional desde 2019 como **Desenvolvedor frontend**
 * 🌱 &nbsp; Aprendendo mais sobre **Next.JS, React Native, UI Design, Design System, MonoRepo, CI/CD**
 
+<br />
+
+<i>
+"Primeiro, tenha um ideal prático definido e claro; uma meta, um objetivo. Em segundo lugar, tenha os meios necessários para atingir seus fins; sabedoria, dinheiro, materiais e métodos. Terceiro, ajuste todos os seus meios para esse fim.” – Aristóteles."
+<i/>
+
 ### Skills
 
 <p style="display: inline_block">
