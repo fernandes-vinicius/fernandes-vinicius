@@ -1,17 +1,17 @@
 # Oi 👋 Meu nome é Vinícius Fernandes
 
 
-Desenvolvedor Frontend
+Desenvolvedor Front-end
 ----------------------
 
 ## [Meu Portfolio](https://portfolio-viniciusfernandes.vercel.app)
 
-Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codificar e descobrir como transformar ideias em negócios usando tecnologia de ponta. Meu foco principal é desenvolvimento front, fazendo aplicações que impactam a vida de milhares de usuários.
+Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codificar e descobrir como transformar ideias em negócios, usando tecnologia de ponta. Meu foco principal é desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
 * 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
 * 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://portal.ifrn.edu.br/ensino/cursos/cursos-de-graduacao/tecnologia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/view">IFRN</a>
 * 💼 &nbsp; Atuando no mercado profissional desde 2019 como **Desenvolvedor frontend**
-* 🌱 &nbsp; Aprendendo mais sobre **Next.JS, React Native, UI Design, Design System, MonoRepo, CI/CD**
+* 🌱 &nbsp; Aprendendo mais sobre **Next.JS, React Native, UI Design, Design System, MonoRepo, CI/CD e muito mais**
 
 <br />
 
@@ -22,11 +22,14 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
 ## Linguagens & Ferramentas
 
 <div style="display: inline_block">
+<img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://img.shields.io/badge/React_Query-ef4444?style=for-the-badge&logo=react-query&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -34,7 +37,8 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 </br>
 
