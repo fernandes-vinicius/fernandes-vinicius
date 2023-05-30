@@ -4,7 +4,7 @@
 Desenvolvedor Frontend
 ----------------------
 
-## [Site do Meu Portfolio](https://portfolio-viniciusfernandes.vercel.app)
+## [Meu Portfolio](https://portfolio-viniciusfernandes.vercel.app)
 
 Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codificar e descobrir como transformar ideias em negócios usando tecnologia de ponta. Meu foco principal é desenvolvimento front, fazendo aplicações que impactam a vida de milhares de usuários.
 
@@ -19,19 +19,24 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
 "Primeiro, tenha um ideal prático definido e claro; uma meta, um objetivo. Em segundo lugar, tenha os meios necessários para atingir seus fins; sabedoria, dinheiro, materiais e métodos. Terceiro, ajuste todos os seus meios para esse fim.” – Aristóteles."
 <i/>
 
-### Skills
+## Linguagens & Ferramentas
 
-<p style="display: inline_block">
-  <img align="center" height="30" width="40" alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg">
-  <img align="center" height="30" width="40" alt="Tailwindcss" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
-    <img align="center" height="30" width="40" alt="MUI" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg">
-        <img align="center" height="30" width="40" alt="Redux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg">
-</p>
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
+</br>
 
 ### Redes Sociais
 
