@@ -1,7 +1,7 @@
 # Oi 👋 Meu nome é Vinícius Fernandes
 
 
-Desenvolvedor Front-end
+Desenvolvedor Front-End
 ----------------------
 
 ## [Meu Portfolio](https://portfolio-viniciusfernandes.vercel.app)
