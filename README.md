@@ -60,3 +60,5 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
 <b>Minhas Estatísticas do GitHub</b>
 
 <a href="http://www.github.com/fernandes-vinicius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandes-vinicius&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandes-vinicius&show_icons=true&theme=dracula)
