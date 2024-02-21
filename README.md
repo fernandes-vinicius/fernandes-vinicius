@@ -1,17 +1,21 @@
-# Oi 👋 Meu nome é Vinícius Fernandes
+# Oi 👋 Eu sou o Vinícius,
 
 
-Desenvolvedor Front-End
+Sou um desenvolvedor Front-end apaixonado pelo que faz!
 ----------------------
 
-## [Meu Portfolio](https://vinicius-frontend.vercel.app)
+## [Portfolio](https://vinicius-frontend.vercel.app)
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codificar e descobrir como transformar ideias em negócios, usando tecnologia de ponta. Meu foco principal é desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
 * 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
 * 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://portal.ifrn.edu.br/ensino/cursos/cursos-de-graduacao/tecnologia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/view">IFRN</a>
-* 💼 &nbsp; Atuando no mercado profissional desde 2019 como **Desenvolvedor frontend**
-* 🌱 &nbsp; Aprendendo mais sobre **Next.JS, React Native, UI Design, Design System, MonoRepo, CI/CD e muito mais**
+* 💼 &nbsp; Atuando no mercado profissional desde 2019 como **Desenvolvedor front-end**
+* 🌱 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Me aprofundando mais sobre: **JavaScript, TypeScript, Next, React, UI Design, Design System, MonoRepo, CI/CD e muito mais**
+* 💪 Sou apaixonado pela musculação, e costumo treinar diariamente. É o que eu mais gosto de fazer pra me divertir, me cuidar e esvaziar a cabeça haha!
+* 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
 <br />
 
@@ -19,7 +23,7 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
 "Primeiro, tenha um ideal prático definido e claro; uma meta, um objetivo. Em segundo lugar, tenha os meios necessários para atingir seus fins; sabedoria, dinheiro, materiais e métodos. Terceiro, ajuste todos os seus meios para esse fim.” – Aristóteles."
 <i/>
 
-## Linguagens & Ferramentas
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
@@ -55,8 +59,4 @@ Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codifi
 
 <b>Minhas Estatísticas do GitHub</b>
 
-<a href="http://www.github.com/fernandes-vinicius"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=fernandes-vinicius&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
-
 <a href="http://www.github.com/fernandes-vinicius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandes-vinicius&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/fernandes-vinicius" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=fernandes-vinicius&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
