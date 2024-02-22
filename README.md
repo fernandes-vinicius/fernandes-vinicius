@@ -59,3 +59,5 @@
 **📊 &nbsp;Badges**
 
 ![Vinicius Fernandes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandes-vinicius&show_icons=true&theme=dracula)
+
+Conheça alguns dos meus projetos mais recentes aqui em abaixo 👇
