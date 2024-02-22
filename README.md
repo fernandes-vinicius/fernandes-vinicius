@@ -1,62 +1,61 @@
-# Oi 👋 Eu sou o Vinícius,
+<h1>👋 &nbsp;Olá, eu sou o Vinícius, um desenvolvedor front-end apaixonado pelo que faz!</h1>
 
+<p align="center">
+<a href="https://instagram.com/fernandesv_"><img src="https://img.shields.io/badge/-@fernandesv__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vinicius-fernandes-3a6686139"><img src="https://img.shields.io/badge/-Vinicius%20Fernandes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:viniciusfernandes6991@gmail.com"><img src="https://img.shields.io/badge/-viniciusfernandes6991@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-Sou um desenvolvedor Front-end apaixonado pelo que faz!
-----------------------
-
-## [Portfolio](https://vinicius-frontend.vercel.app)
+</p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-Atuo no mercado profissional como desenvolvedor há mais de 4 anos. Adoro codificar e descobrir como transformar ideias em negócios, usando tecnologia de ponta. Meu foco principal é desenvolvimento front-end, fazendo aplicações que impactam a vida de milhares de usuários.
+**[Meu Portfolio](https://vinicius-frontend.vercel.app)**
 
-* 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software
-* 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://portal.ifrn.edu.br/ensino/cursos/cursos-de-graduacao/tecnologia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/view">IFRN</a>
-* 💼 &nbsp; Atuando no mercado profissional desde 2019 como **Desenvolvedor front-end**
-* 🌱 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Me aprofundando mais sobre: **JavaScript, TypeScript, Next, React, UI Design, Design System, MonoRepo, CI/CD e muito mais**
-* 💪 Sou apaixonado pela musculação, e costumo treinar diariamente. É o que eu mais gosto de fazer pra me divertir, me cuidar e esvaziar a cabeça haha!
-* 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+* 🎓 &nbsp; Me graduei em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal do Rio Grande do Norte (<a href="https://portal.ifrn.edu.br/ensino/cursos/cursos-de-graduacao/tecnologia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/view">IFRN</a>);
+* 💼 &nbsp; Estou atuando no mercado desde 2019 como **Desenvolvedor front-end**;
+* 🌱 &nbsp; Há mais de 5 anos, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Principalmente com: **TypeScript, Next, React, UI Design, Design System, MonoRepo, CI/CD e muito mais**;
+* 💪 &nbsp; Sou apaixonado pela musculação, e costumo treinar diariamente. Uma boa rotina de treino me ajuda a manter o corpo e mente saudável;
+* 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia em geral;
+* 👨‍🍳&nbsp; Outra de minhas paixões é a culinária. Minha relação com a gastronomia começou cedo e desde então não parei. Gosto de me aventurar na cozinha haha!
 
-<br />
+<h2> 🛠 &nbsp;Tech Stack </h2>
 
-<i>
-"Primeiro, tenha um ideal prático definido e claro; uma meta, um objetivo. Em segundo lugar, tenha os meios necessários para atingir seus fins; sabedoria, dinheiro, materiais e métodos. Terceiro, ajuste todos os seus meios para esse fim.” – Aristóteles."
-<i/>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=vercel)
+![React Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=593D88)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+![Styed Components](https://img.shields.io/badge/-styled--components-333333?style=flat&logo=styled-components)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+**💻 &nbsp;DevOps**
 
-<div style="display: inline_block">
-<img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-<img src="https://img.shields.io/badge/React_Query-ef4444?style=for-the-badge&logo=react-query&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-2b825b?style=for-the-badge&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-</br>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-### Redes Sociais
+**⚙️ &nbsp;Gestão de Projetos**
 
-<p>
-<a href="https://instagram.com/fernandesv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vinicius-fernandes-3a6686139" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:vinicius.dev.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=FAFAFA)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Clickup](https://img.shields.io/badge/-Clickup-333333?style=flat&logo=clickup&logoColor=7B68EE)
 
-### Badges
+**🖌 &nbsp;UI/UX**
 
-<b>Minhas Estatísticas do GitHub</b>
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Dribbble](https://img.shields.io/badge/-Dribbble-333333?style=flat&logo=dribbble)
 
-<a href="http://www.github.com/fernandes-vinicius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandes-vinicius&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandes-vinicius&show_icons=true&theme=dracula)
+**📊 &nbsp;Badges**
+
+![Vinicius Fernandes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandes-vinicius&show_icons=true&theme=dracula)
