@@ -10,7 +10,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-**[Meu Portfolio](https://vinicius-frontend.vercel.app)**
+**👉 [Meu Portfolio](https://vinicius-frontend.vercel.app) 👈**
 
 * 🎓 &nbsp; Me graduei em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal do Rio Grande do Norte (<a href="https://portal.ifrn.edu.br/ensino/cursos/cursos-de-graduacao/tecnologia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/view">IFRN</a>);
 * 💼 &nbsp; Estou atuando no mercado desde 2019 como **Desenvolvedor front-end**;
