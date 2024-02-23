@@ -4,6 +4,7 @@
   <a href="https://instagram.com/fernandesv_"><img src="https://img.shields.io/badge/-@fernandesv__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vinicius-fernandes-3a6686139"><img src="https://img.shields.io/badge/-Vinicius%20Fernandes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:viniciusfernandes6991@gmail.com"><img src="https://img.shields.io/badge/-viniciusfernandes6991@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://vinicius-frontend.vercel.app"><img src="https://img.shields.io/badge/-vinicius--frontend.vercel.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
