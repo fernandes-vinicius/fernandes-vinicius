@@ -18,7 +18,7 @@
 * 🌱 &nbsp; Há mais de 5 anos, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Principalmente com: **TypeScript, Next, React, UI Design, Design System, MonoRepo, CI/CD e muito mais**;
 * 💪 &nbsp; Sou apaixonado pela musculação, e costumo treinar diariamente. Uma boa rotina de treino me ajuda a manter o corpo e mente saudável;
 * 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia em geral;
-* 👨‍🍳&nbsp; Outra de minhas paixões é a culinária. Minha relação com a gastronomia começou cedo e desde então não parei. Gosto de me aventurar na cozinha haha!
+* 👨‍🍳 &nbsp; Outra de minhas paixões é a culinária. Minha relação com a gastronomia começou cedo e desde então não parei. Gosto de me aventurar na cozinha haha!
 
 <h2> 🛠 &nbsp;Tech Stack </h2>
 
