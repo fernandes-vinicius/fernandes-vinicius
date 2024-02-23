@@ -37,28 +37,28 @@
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 
-**💻 &nbsp;DevOps**
+**DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-**⚙️ &nbsp;Gestão de Projetos**
+**Gestão de Projetos**
 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=FAFAFA)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Clickup](https://img.shields.io/badge/-Clickup-333333?style=flat&logo=clickup&logoColor=7B68EE)
 
-**🖌 &nbsp;UI/UX**
+**UI/UX**
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Dribbble](https://img.shields.io/badge/-Dribbble-333333?style=flat&logo=dribbble)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-**📊 &nbsp;Badges**
+**Badges**
 
 ![Vinicius Fernandes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandes-vinicius&show_icons=true&theme=dracula)
 
