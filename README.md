@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Vinícius, um desenvolvedor front-end apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Oi, eu sou o Vinícius. Um desenvolvedor front-end apaixonado pelo que faz!</h1>
 
 <p align="center">
   <a href="https://instagram.com/fernandesv_"><img src="https://img.shields.io/badge/-@fernandesv__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
