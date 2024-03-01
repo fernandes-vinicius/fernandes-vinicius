@@ -54,7 +54,6 @@
 **UI/UX**
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Dribbble](https://img.shields.io/badge/-Dribbble-333333?style=flat&logo=dribbble)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
