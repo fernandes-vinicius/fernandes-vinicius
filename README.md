@@ -9,7 +9,7 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
 **👉 [Meu Portfolio](https://vinicius-frontend.vercel.app) 👈**
 
