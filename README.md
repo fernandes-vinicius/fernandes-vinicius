@@ -15,7 +15,7 @@
 
 * 🎓 &nbsp; Me graduei em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal do Rio Grande do Norte (<a href="https://portal.ifrn.edu.br/ensino/cursos/cursos-de-graduacao/tecnologia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/view">IFRN</a>);
 * 💼 &nbsp; Estou atuando no mercado desde 2019 como **Desenvolvedor front-end**;
-* 🌱 &nbsp; Há mais de 5 anos, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Principalmente com: **TypeScript, Next, React, UI Design, Design System, MonoRepo, CI/CD e muito mais**;
+* 🌱 &nbsp; Há mais de 6 anos, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Principalmente com: **TypeScript, Next, React, UI Design, Design System, MonoRepo, CI/CD e muito mais**;
 * 💪 &nbsp; Sou apaixonado pela musculação, e costumo treinar diariamente. Uma boa rotina de treino me ajuda a manter o corpo e mente saudável;
 * 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia em geral;
 * 👨‍🍳 &nbsp; Outra de minhas paixões é a culinária. Minha relação com a gastronomia começou cedo e desde então não parei. Gosto de me aventurar na cozinha haha!
